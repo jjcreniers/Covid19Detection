@@ -4,6 +4,7 @@ In this GitHub you can find the code for a COVID-19 detector network, which is b
 
 Pretrained CheXNet from this repository:
 [brucechou1983/CheXNet-Keras](https://github.com/brucechou1983/CheXNet-Keras)
+**[Download Link](https://drive.google.com/open?id=19BllaOvs2x5PLV_vlWMy4i8LapLb2j6b)**
 
 **Colab for this project:**
 
