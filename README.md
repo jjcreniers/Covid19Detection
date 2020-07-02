@@ -3,7 +3,7 @@
 In this GitHub you can find the code for two COVID-19 detector networks. One which is build using transfer learning from a DenseNet-121 network pretrained on ImageNet, and one which is build using transfer learning from the CheXNet reproduction from [Bruce Chou](https://github.com/brucechou1983/CheXNet-Keras). 
 Also the dataset we assembled can be found in this GitHub repository. The data in the dataset is derived from the [ieee8023](https://github.com/ieee8023/covid-chestxray-dataset) and the [CheXpert GitHub](https://stanfordmlgroup.github.io/competitions/chexpert/).
 
-Both networks give great results, with the ImageNet pre-trained network having the edge with an accuracy of 0.98 on our test set!
+Both networks have optimized hyperparameters and give great results, with the ImageNet pre-trained network having the edge with an accuracy of 0.98 on our test set!
 
 A link to the corresponding blog post:
 
